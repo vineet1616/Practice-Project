@@ -1,2 +1,2 @@
 # Practice-Project
-Tempelates of Practice Projects
+Templates of Practice Projects
